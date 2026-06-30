@@ -8,8 +8,6 @@ A machine learning project that predicts whether a patient has diabetes using th
 
 Early detection of diabetes can significantly improve patient outcomes. This project develops a binary classification system using five machine learning algorithms and compares their performance to identify the most effective model.
 
-Developed as part of the **Ostad AI Engineering Bootcamp – Module 11 Assignment**.
-
 ---
 
 # 📂 Dataset

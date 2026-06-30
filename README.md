@@ -1,9 +1,5 @@
 # 🩺 Diabetes Classification with Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A machine learning project that predicts whether a patient has diabetes using the **Pima Indians Diabetes Dataset**. The project compares multiple classification algorithms, evaluates their performance using standard metrics, and saves the best-performing model for future predictions.
 
 ---
